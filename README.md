@@ -30,9 +30,9 @@ Compilação do Código
 Abra o terminal ou prompt de comando.
 Navegue até o diretório onde o código-fonte foi baixado/clonado.
 Compile o código utilizando o compilador GCC:
-gcc -o controle controle.c -lgdi32
+<strong>gcc -o controle controle.c -lgdi32</strong>
 Este comando compilará o código-fonte e gerará um executável chamado
-controle.exe.
+<strong>controle.exe</strong>.
 
 <h2> MANUAL DO USUÁRIO </h2>
 
@@ -40,7 +40,7 @@ INICIALIZAÇÃO DO SISTEMA
 
 No terminal ou prompt de comando, navegue até o diretório onde o
 executável foi gerado.
-Execute o programa: controle.exe
+Execute o programa: <strong>controle.exe</strong>
 A aplicação solicitará a senha para acesso. A senha padrão é <strong>tads</strong> e pode ser alterada no código.
 
 CONFIGURAÇÃO INICIAL
