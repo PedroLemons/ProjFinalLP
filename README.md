@@ -2,7 +2,7 @@
 
 Desenvolvimento de um sistema para gerenciar o estoque de uma loja, protegido por uma senha, com menus e CRUD. Sistema elaborado como requisito parcial à conclusão da disciplina de Linguagem de Programação.
 
-# CONFIGURAÇÃO DO AMBIENTE
+<h2> CONFIGURAÇÃO DO AMBIENTE </h2> 
 
 Instalação do Compilador:
 
@@ -19,7 +19,7 @@ Utilize um editor de texto ou um ambiente de desenvolvimento integrado
 (IDE) como Visual Studio Code, Code::Blocks ou Dev-C++ para editar e compilar o
 código.
 
-# INSTALAÇÃO DO SOFTWARE
+<h2> INSTALAÇÃO DO SOFTWARE </h2>
 
 Obtenção do Código
 
@@ -34,7 +34,7 @@ gcc -o controle controle.c -lgdi32
 Este comando compilará o código-fonte e gerará um executável chamado
 controle.exe.
 
-# MANUAL DO USUÁRIO
+<h2> MANUAL DO USUÁRIO </h2>
 
 INICIALIZAÇÃO DO SISTEMA
 
