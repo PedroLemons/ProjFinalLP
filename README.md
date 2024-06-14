@@ -1,3 +1,7 @@
+2024/1-DS123/TURMA_482074 LINGUAGEM DE PROGRAMAÇÃO - Prof. Dr. Roberson Cesar Alves de Araujo
+Aluno: Pedro Augusto Lemos
+GRR 20234188
+
 # ProjFinalLP
 
 Desenvolvimento de um sistema para gerenciar o estoque de uma loja, protegido por uma senha, com menus e CRUD. Sistema elaborado como requisito parcial à conclusão da disciplina de Linguagem de Programação.
