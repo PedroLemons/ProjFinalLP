@@ -41,7 +41,7 @@ INICIALIZAÇÃO DO SISTEMA
 No terminal ou prompt de comando, navegue até o diretório onde o
 executável foi gerado.
 Execute o programa: controle.exe
-A aplicação solicitará a senha para acesso. A senha padrão é <strong>tads</strong>.
+A aplicação solicitará a senha para acesso. A senha padrão é <strong>tads</strong> e pode ser mudada no código.
 
 CONFIGURAÇÃO INICIAL
 
